@@ -24,7 +24,7 @@ Icons : https://simpleicons.org/
 ![Data Scientist - Banner](images/banner.jpeg)
 -->
 
-![Hey! I'm Shlomi - Data Scientist](images/banner-alt.jpeg)
+[![Hey! I'm Shlomi - Data Scientist](images/banner-alt.jpeg)]("")
 
 - 📊 Data Scientist
 - 🧬 Bioinformatitian
