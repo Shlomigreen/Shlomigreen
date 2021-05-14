@@ -24,7 +24,7 @@ Icons : https://simpleicons.org/
 ![Data Scientist - Banner](images/banner.jpeg)
 -->
 
-[![Hey! I'm Shlomi - Data Scientist](images/banner-alt.jpeg)]("")
+[![Hey! I'm Shlomi - Data Scientist](images/banner-alt.jpeg)]()
 
 - 📊 Data Scientist
 - 🧬 Bioinformatitian
@@ -45,3 +45,7 @@ Icons : https://simpleicons.org/
 ![](https://img.shields.io/badge/IDE-Jupyter_Notebook-blue?style=flat&logo=Jupyter&logoColor=white&color=6B9587)
 ![](https://img.shields.io/badge/Code-R-blue?style=flat&logo=R&logoColor=white&color=6B9587)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=6B9587)
+
+# 👤 Socials 
+
+[![](https://img.shields.io/badge/-My_Network_Lins-blue?style=for-the-badge&logo=Linktree&logoColor=white&color=6B9587)](https://linktr.ee/shlomigreen)
