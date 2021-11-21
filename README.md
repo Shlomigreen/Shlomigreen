@@ -40,6 +40,7 @@ Icons : https://simpleicons.org/
 
 
 ![](https://img.shields.io/badge/OS-MacOS-blue?style=flat&logo=Apple&logoColor=white&color=6B9587)
+![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=6B9587)
 ![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat&logo=PyCharm&logoColor=white&color=6B9587)
 ![](https://img.shields.io/badge/IDE-RStudio-blue?style=flat&logo=RStudio&logoColor=white&color=6B9587)
 ![](https://img.shields.io/badge/IDE-Jupyter_Notebook-blue?style=flat&logo=Jupyter&logoColor=white&color=6B9587)
