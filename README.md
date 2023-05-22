@@ -36,7 +36,7 @@ Icons : https://simpleicons.org/
 ・  🌟 • ⭐️ • 🌟  ・
 </p>
 
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/281/hammer-and-wrench_1f6e0-fe0f.png" alt="Wrench and Hammer" width="25"> Technologies & Tools
+# 🛠️ Technologies & Tools
 
 
 ![](https://img.shields.io/badge/OS-MacOS-blue?style=flat&logo=Apple&logoColor=white&color=6B9587)
