@@ -1,52 +1,24 @@
-<!--
-**Shlomigreen/Shlomigreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Shlomi Green!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👨‍💻 About Me
+I'm a Data Scientist and Tech Lead based in Israel. I specialize in **Python**, but I love exploring new technologies and frameworks like **Rust**. In my free time, I enjoy **gaming** and **3D printing**.
 
+## 🔧 Tech Stack
+- **Languages**: Python, Rust, Spark
+- **Frameworks/Tools**: Databricks, Docker, Flask, PyTorch
+- **CI/CD**: GitHub Actions, Jenkins, CircleCI
+- **Cloud**: AWS, GCP
 
-Emojies : https://emojipedia.org/
-Icons : https://simpleicons.org/
+## 🛠️ Open-Source Contributions
+I'm always looking for ways to contribute to the open-source community, whether through bug fixes, documentation improvements, or creating tools that solve real-world problems.
 
--->
+## 📫 Let's Connect
+- **LinkedIn**: [shlomigreen](https://www.linkedin.com/in/shlomigreen/)
+- **X**: [@thesholmigreen](https://x.com/thesholmigreen)
 
-<!-- Option 1
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
-### Hi there 👋  I'm Shlomi, and I am a ...
-![Data Scientist - Banner](images/banner.jpeg)
--->
+---
 
-[![Hey! I'm Shlomi - Data Scientist](images/banner-alt.jpeg)]()
-
-- 📊 Data Scientist
-- 🧬 Bioinformatitian
-- 🔬 Biologist
-- 🥑 Nutritionist
-- 🌟 Multipotentialite
-
-<p align=center>
-・  🌟 • ⭐️ • 🌟  ・
-</p>
-
-# 🛠️ Technologies & Tools
-
-
-![](https://img.shields.io/badge/OS-MacOS-blue?style=flat&logo=Apple&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=visualstudiocode&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat&logo=PyCharm&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/IDE-RStudio-blue?style=flat&logo=RStudio&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/IDE-Jupyter_Notebook-blue?style=flat&logo=Jupyter&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/Code-R-blue?style=flat&logo=R&logoColor=white&color=6B9587)
-![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=6B9587)
-
-# 👤 Socials 
-
-[![](https://img.shields.io/badge/-My_Network_Lins-blue?style=for-the-badge&logo=Linktree&logoColor=white&color=6B9587)](https://linktr.ee/shlomigreen)
