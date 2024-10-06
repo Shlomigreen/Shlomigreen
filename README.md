@@ -16,7 +16,7 @@ I'm always looking for ways to contribute to the open-source community, whether 
 
 ## 📫 Let's Connect
 - **LinkedIn**: [shlomigreen](https://www.linkedin.com/in/shlomigreen/)
-- **X**: [@thesholmigreen](https://x.com/thesholmigreen)
+- **X**: [@theshlomigreen](https://x.com/theshlomigreen)
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
