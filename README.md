@@ -11,6 +11,3 @@ In my free time, I enjoy **gaming** and **3D printing**.
 <!-- - **X**: [@theshlomigreen](https://x.com/theshlomigreen) -->
 
 Feel free to explore and get in touch!
-
----
-
